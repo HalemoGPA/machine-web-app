@@ -26,6 +26,6 @@ The web application utilizes a machine learning model trained on a dataset conta
 
 To use the web application, follow these steps:
 
-1. Visit the web application at [https://web-with-machine-nucec8gi3bzjgxpdxmtwqj.streamlit.app/](https://web-with-machine-nucec8gi3bzjgxpdxmtwqj.streamlit.app/).
+1. Visit the web application at [Cerebral Stroke Prediction Web App](https://machineweb.streamlit.app/).
 2. Input the required information for prediction.
 3. Click the submit button to get the prediction result.
